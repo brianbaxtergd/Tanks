@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 146
+  controlID: 144
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 56
+  controlID: 33
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 101
+  controlID: 77
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -416,9 +416,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0.38999915, z: 4.8000007}
+    m_Target: {x: 0.000011444092, y: -0.92149734, z: -0.000015258789}
     speed: 2
-    m_Value: {x: 0, y: 0.38999915, z: 4.8000007}
+    m_Value: {x: 0.000011444092, y: -0.92149734, z: -0.000015258789}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -447,13 +447,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.13461377, y: 0.37259093, z: -0.054684374, w: -0.9165696}
+    m_Target: {x: -0.5043462, y: -0.055090416, z: 0.032298718, w: -0.86115867}
     speed: 2
-    m_Value: {x: -0.13461141, y: 0.3725844, z: -0.054683417, w: -0.91655356}
+    m_Value: {x: -0.5043368, y: -0.055089384, z: 0.032298114, w: -0.8611426}
   m_Size:
-    m_Target: 10.443463
+    m_Target: 57.810387
     speed: 2
-    m_Value: 10.443463
+    m_Value: 57.810387
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -472,7 +472,7 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: -0.06469238, y: -0.047284625, z: 0.0030958862, w: -0.9967984}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -571,7 +571,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -2436
+  m_LastSelectedObjectID: 14418
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -601,9 +601,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 6e270000
       m_LastClickedID: 0
-      m_ExpandedIDs: a0eeffff70f6ffff74fbffff
+      m_ExpandedIDs: 7af1ffff74fbffff52380000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -666,19 +666,19 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Scripts/Managers
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Scripts/Managers
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Mauldini\Desktop\Unity Projects\Tanks\Tanks
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 58330000
-    m_LastClickedID: 13144
+    m_SelectedIDs: 5e300000
+    m_LastClickedID: 12382
     m_ExpandedIDs: 0000000044300000f036000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
